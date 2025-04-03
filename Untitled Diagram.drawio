@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UAlQDy6RC-g5D0KgRkM5-1" value="attendee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="125" width="70" height="100" as="geometry" />
+          <mxGeometry x="530" y="360" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UAlQDy6RC-g5D0KgRkM5-3" value="event organizer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="130" width="70" height="100" as="geometry" />
@@ -62,6 +62,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="215" as="sourcePoint" />
             <mxPoint x="250" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-24" value="register for events" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="405" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.032;exitY=0.637;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UAlQDy6RC-g5D0KgRkM5-23" target="UAlQDy6RC-g5D0KgRkM5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="550" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-27" value="account registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254.5" y="505" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UAlQDy6RC-g5D0KgRkM5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-30" value="discover for the events" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="615" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAlQDy6RC-g5D0KgRkM5-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="UAlQDy6RC-g5D0KgRkM5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="430" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
